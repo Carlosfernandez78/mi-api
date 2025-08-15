@@ -1,0 +1,18 @@
+{
+  "watch": [
+    "index.js",
+    "controllers",
+    "routes",
+    "middleware",
+    "models",
+    "config/db.js"
+  ],
+  "ext": "js,json",
+  "ignore": [
+    "node_modules",
+    "migrations",
+    "config/mi_api.sql",
+    "README.md"
+  ]
+}
+
